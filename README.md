@@ -1,4 +1,4 @@
-# **Syntx AI - Base Script For Whatsapp Bot**
+# **Syntx - Base Script For Whatsapp Bot**
 
 ![Syntx](logo.svg)
 
